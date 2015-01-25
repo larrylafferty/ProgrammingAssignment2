@@ -1,5 +1,5 @@
 ## R Programming Assignment #2
-## This file defines 3 functions:  'doIt', makeCacheMatris' and 'cacheSolve
+## This file defines 3 functions:  'testIt', makeCacheMatris' and 'cacheSolve
 ##
 ## 'testIt' is a test harness that executes 'makeCacheMatrix' and 'cacheSolve'
 ##
